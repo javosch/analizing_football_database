@@ -1,5 +1,3 @@
-All of the code was do it by me searching through StackOverflow.com, w3schools.com/python, Pandas documentation and google searchs.
-
 # Analizing Football Database
 #### Data Science Fundamentals - Talento Digital | Udacity
 
