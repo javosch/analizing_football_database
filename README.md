@@ -1,7 +1,7 @@
 # Analizing Football Database
 #### Data Science Fundamentals - Talento Digital | Udacity
 
-For the correct view of jupyter notebook you can use <a href="https://nbviewer.jupyter.org/github/javosch/analizing_football_database/blob/main/analizing_football_database.ipynb#means">nbviewer</a>.
+For the correct view of jupyter notebook you can use <a href="https://nbviewer.jupyter.org/github/javosch/analizing_football_database/blob/main/analizing_football_database.ipynb">nbviewer</a>.
 
 I'll be working with the european football (2008-2016) database provided from Udacity. You can find the original database <a href="https://www.kaggle.com/hugomathien/soccer">here</a> thanks to Kaggle user <a href="https://www.kaggle.com/hugomathien/soccer">Hugo Mathien</a>.<br><br>
 
